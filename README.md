@@ -127,5 +127,6 @@ The next step is to implement a Linear Programming model in Python to optimize w
 
 Detailed project documentation is available in:
 
-* `documentation/PROJECT_LOG.md`
-* `documentation/assumptions.md`
+* [Assumptions](https://github.com/UlaNowak/supply-chain-network-optimization/blob/main/documentation/assumptions.md)
+* [Project_log](https://github.com/UlaNowak/supply-chain-network-optimization/blob/main/documentation/project_log.md)
+
